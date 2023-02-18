@@ -1,0 +1,13 @@
+html {
+  height: 100%;
+  overflow: hidden;
+}
+
+body {
+  height: 100%;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background: #ff406f;
+  background: linear-gradient(0deg, rgba(255, 64, 111, 1) 0%, rgba(255, 138, 120, 1) 100%);
+}
